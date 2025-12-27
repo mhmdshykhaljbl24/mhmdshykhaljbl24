@@ -25,12 +25,6 @@ Md
 - HTML | CSS | JavaScript
 - React (Learning)
 - Git & GitHub
-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-</p>
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdshykhalib24&layout=compact&theme=tokyonight" />
 </p>
 
