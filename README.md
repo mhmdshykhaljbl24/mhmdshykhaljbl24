@@ -1,16 +1,27 @@
-## Hi there 👋
+Md
+<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<h3 align="center">Frontend Developer | React Learner</h3>
 
-<!--
-**mhmdshykhaljbl24/mhmdshykhaljbl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdshykhalib24&show_icons=true&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdshykhalib24&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🌱 Currently learning React
+- 💻 Interested in Web Development
+- 🚀 Always improving my skills
+
+---
+
+### 🛠️ Skills
+
+- HTML | CSS | JavaScript
+- React (Learning)
+- Git & GitHub
